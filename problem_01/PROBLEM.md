@@ -1,8 +1,10 @@
 ## Vấn đề: Lấy ra những cặp khách hàng và quản lý có số lần liên hệ nhau nhiều nhất
 <br>
+
 ## Cơ sở dữ liệu:
 <img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_01/img/how_database_looks.png?raw=true">
 <br>
+
 ## Ví dụ mẫu về dữ liệu
 <img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_01/img/customer_table.png?raw=true">
 <img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_01/img/user_account_table.png?raw=true">
