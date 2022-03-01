@@ -2,13 +2,12 @@
 <br>
 
 ## Cơ sở dữ liệu:
-<img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_01/img/how_database_looks.png?raw=true">
+<img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_02/img/how_database_look.png?raw=true">
 <br>
 
 ## Ví dụ mẫu về dữ liệu
-<img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_01/img/customer_table.png?raw=true">
-<img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_01/img/user_account_table.png?raw=true">
-<img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_01/img/contact_table.png?raw=true">
+<img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_02/img/customer_table.png?raw=true">
+<img src="https://github.com/maoleng/SQL-Intermediate-Level/blob/main/problem_02/img/invoice_table.png?raw=true">
 <br>
 
 ## Đầu ra
